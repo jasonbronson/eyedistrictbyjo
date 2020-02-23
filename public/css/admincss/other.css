@@ -1,0 +1,7 @@
+
+.alertHover{
+    position: absolute;
+    top: 100px;
+    z-index: 1000;
+    right: 4px;
+}
